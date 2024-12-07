@@ -51,7 +51,7 @@ To run a specific day's solution, follow these instructions:
 3. **Compile and run the C++ solution**:
    ```bash
    g++ -o solution solution.cpp
-   ./solution
+   ./solution input_data
    ```
 
 > **Note:** Ensure you have a C++ compiler (like `g++`) installed on your system. You can also open 2024/ workspace in VS Code and use build tasks to compile the code.
