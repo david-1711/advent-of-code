@@ -99,7 +99,7 @@ Here’s a quick look at the progress for each year's puzzles.
 |  3   | ✅      | ✅      | [Day 3: Mull It Over](https://adventofcode.com/2024/day/3)  | [Solution](2024/day3/) |
 |  4   | ✅      | ✅      | [Day 4: Ceres Search](https://adventofcode.com/2024/day/4)  | [Solution](2024/day4/) |
 |  5   | ✅      | ✅      | [Day 5: Print Queue](https://adventofcode.com/2024/day/5)  | [Solution](2024/day5/) |
-|  6   | ✅      | ❌      | [Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6)  | [Solution](2024/day6/) |
+|  6   | ✅      | ✅      | [Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6)  | [Solution](2024/day6/) |
 |  7   | ❌      | ❌      | [Day 7: Bridge Repair](https://adventofcode.com/2024/day/7)  | [Solution](2024/day7/) |
 | ...  | ❌     | ❌     | ...                        | ...                                            | ...         |
 
