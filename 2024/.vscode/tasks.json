@@ -8,6 +8,7 @@
       "args": [
         "-std=c++17",
         "-g",
+        "-O3",
         "${file}",
         "-o",
         "${fileDirname}/run__${fileBasenameNoExtension}"
