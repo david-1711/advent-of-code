@@ -103,7 +103,7 @@ Here’s a quick look at the progress for each year's puzzles.
 |  7   | ✅      | ✅      | [Day 7: Bridge Repair](https://adventofcode.com/2024/day/7)  | [Solution](2024/day7/) |
 |  8   | ✅      | ✅      | [Day 8: Resonant Collinearity](https://adventofcode.com/2024/day/8)  | [Solution](2024/day8/) |
 |  9   | ✅      | ✅      | [Day 9: Disk Fragmenter](https://adventofcode.com/2024/day/9)  | [Solution](2024/day9/) |
-|  10   | ❌      | ❌      | [Day 10: Hoof It](https://adventofcode.com/2024/day/10)  | [Solution](2024/day10/) |
+|  10   | ✅      | ✅      | [Day 10: Hoof It](https://adventofcode.com/2024/day/10)  | [Solution](2024/day10/) |
 |  11   | ❌      | ❌      | [Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11)  | [Solution](2024/day11/) |
 |  12   | ❌      | ❌      | [Day 12: Garden Groups](https://adventofcode.com/2024/day/12)  | [Solution](2024/day12/) |
 |  13   | ❌      | ❌      | [Day 13: ...](https://adventofcode.com/2024/day/13)  | [Solution](2024/day13/) |
