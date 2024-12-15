@@ -1,6 +1,6 @@
 # 🎄 Advent of Code Solutions
 
-Welcome to my **Advent of Code** solutions repository! This repository contains my personal solutions to the [Advent of Code](https://adventofcode.com/) challenges, an annual set of Christmas-themed programming puzzles released daily from December 1st to December 25th.
+Welcome to my **Advent of Code** repository! This repository contains my solutions to the [Advent of Code](https://adventofcode.com/) challenges, an annual set of Christmas-themed programming puzzles released daily from December 1st to December 25th.
 
 > **Advent of Code** is a fun way to improve problem-solving skills, learn new algorithms, and challenge yourself with daily puzzles.
 
@@ -104,9 +104,11 @@ Here’s a quick look at the progress for each year's puzzles.
 |  8   | ✅      | ✅      | [Day 8: Resonant Collinearity](https://adventofcode.com/2024/day/8)  | [Solution](2024/day8/) |
 |  9   | ✅      | ✅      | [Day 9: Disk Fragmenter](https://adventofcode.com/2024/day/9)  | [Solution](2024/day9/) |
 |  10   | ✅      | ✅      | [Day 10: Hoof It](https://adventofcode.com/2024/day/10)  | [Solution](2024/day10/) |
-|  11   | ❌      | ❌      | [Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11)  | [Solution](2024/day11/) |
+|  11   | ✅      | ✅      | [Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11)  | [Solution](2024/day11/) |
 |  12   | ❌      | ❌      | [Day 12: Garden Groups](https://adventofcode.com/2024/day/12)  | [Solution](2024/day12/) |
-|  13   | ❌      | ❌      | [Day 13: ...](https://adventofcode.com/2024/day/13)  | [Solution](2024/day13/) |
+|  13   | ❌      | ❌      | [Day 13: Claw Contraption](https://adventofcode.com/2024/day/13)  | [Solution](2024/day13/) |
+|  14   | ❌      | ❌      | [Day 14: Restroom Redoubt](https://adventofcode.com/2024/day/14)  | [Solution](2024/day14/) |
+|  15   | ❌      | ❌      | [Day 15: Warehouse Woes](https://adventofcode.com/2024/day/15)  | [Solution](2024/day15/) |
 | ...  | ❌     | ❌     | ...                        | ...                                            | ...         |
 
 ---
